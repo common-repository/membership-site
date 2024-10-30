@@ -1,0 +1,1914 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: membersonic \n"
+"POT-Creation-Date: 12-06-2013 \n"
+"PO-Revision-Date: 12-06-2013 \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.3\n"
+
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:25
+msgid " Any page or post with at least one box checked will be protected and only accessible by that product / membership level. "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:241
+msgid " First Name"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid " IMPORTANT: For the PayPal paypments to work, you must set up IPN Notifications on PayPal"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-membership.php:15
+msgid " Membership levels:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:156
+msgid " No Records."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:28
+msgid " Pages "
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-login-credential.php:24
+msgid " Password :"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-login-credential.php:26
+msgid " Please check your email for your username and password."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:60
+msgid " Posts "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid " Secret Key:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:514
+msgid " This is the full URL to your SPBAS API directory. Ex. http://your-domain/spbas/api/index.php "
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-login-credential.php:23
+msgid " UserName :"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "(Dangerous don\\'t change this)"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "AFN"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "ALL"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:619
+msgid "API Key"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "API Key to integrate user registration with external MS websites"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "API URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "API connection settings to Auto Responder Services.  Please check corresponding websites to fetch details required below."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "AUD"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:79
+msgid "Access"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:42
+msgid "Access Denied Page - specify the page where visitors will be redirected to if they do not have access to the content (you must first create the page)."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Access Denied Page:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:54
+msgid "Actions"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "Active Campaign Integration: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Active Campaign Tags"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-metabox.php:9
+msgid "Add AR Message"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:264
+msgid "Add Member"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+#: membership-site/admin/view/wp-memberoniclite-members.php:26
+msgid "Add New Member"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:26
+msgid "Add New Product"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "Additional Membership Welcome Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Admin Email Address: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Admin Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Admin display name: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Affiliate System Integration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:40
+msgid "After Login Page - specify the page where members will be redirected to after logging in (you must first create the page)."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "After Login Page:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Amazon S3 Expiring Links Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Amazon s3 Access Key:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Amazon s3 Bucket Name: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Amazon s3 Secret Key:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:277
+msgid "Amount($)"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Auto-Responder Web Form Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:539
+msgid "Autoresponder Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "Aweber Authentication Token: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Billing Option"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1434
+msgid "Body"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "CAD"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:514
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:508
+msgid "CLICK HERE"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:23
+msgid "Check each page or post that you want protected for that level.  Any page or post with no boxes checked will be unprotected. "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:488
+msgid "Check each page or post that you want to protect.  Any page or post with no boxes checked will be unprotected."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:277
+msgid "Click Here"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+#: membership-site/ar-helper-ajax.php:1
+msgid "Click Here to Get Your Authorization Token"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-loginpage.php:49
+msgid "Click here to Logout"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "ClickBank"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "ClickBank IPN Forwarding URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:228
+msgid "Clone"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:900
+msgid "Comma seperated"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Configure shopping carts and register your license."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Content Not Yet Available Page:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+#: membership-site/membersonic.php:1
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Content Protection"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:5
+msgid "Content Protection "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Control and protect your content."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:289
+msgid "Coupon Code"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1448
+msgid "Create Membership Level"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Create PayPal Coupon Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Create product/memberships and access buy now links."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Currency"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:189
+msgid "Currency - enter the desired currence (i.e. USD)."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Currency:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:92
+msgid "Custom Post Types"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:60
+msgid "Custom Text"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:60
+msgid "Custom URL"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:355
+msgid "Custom image"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "DAYS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+#: membership-site/membersonic.php:1
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:26
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Dashboard"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:439
+#: membership-site/admin/view/wp-memberoniclite-metabox.php:8
+msgid "Date to Drip"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:488
+msgid "Days to Display is for scheduling content delivery.  For example, entering 7 days to display will result in the content not being available until 7 days after the member joined this level.  Leave blank (or 0) for no delay."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:439
+#: membership-site/admin/view/wp-memberoniclite-metabox.php:7
+msgid "Days to Drip"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Dealguardian"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+msgid "Dear [firstname],  \\n  \\n Your [memberlevel] membership is successfully activated.  \\n  \\n  You can use the present login info to access the membership.  \\n  \\n Regards,"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+msgid "Dear [firstname], \\n  \\n You have successfully registered as one of our [memberlevel] members. \\n  \\n Please keep this information safe as it contains your username and password.   \\n  \\n Your Membership Info:  \\n  \\n U: [username]  \\n  \\n P: [password]  \\n  \\n Login URL: [loginurl]  \\n  \\n Regards,"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Default Login Limit:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:228
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:238
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "DigiResults"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "DigiResults IPN Forwarding URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/digiresults.php:1
+msgid "Digiresult : direct receipt validation process failed"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "Digiresults and ClickBank are affiliate systems that can integrate with MemberSonic.  Click on the links below to learn more about these systems."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:289
+msgid "Discount"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:289
+msgid "Discount Type"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:562
+msgid "Do not send multiple emails"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:614
+msgid "Domain Name"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "ERROR: Please setup USER CONTROL under GENERAL SETTINGS."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "EUR"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:228
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+msgid "Edit Product"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:58
+msgid "Edit Profile"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:67
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:241
+msgid "Email Address"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Email Field"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:22
+msgid "Email Id:"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Email id already exist"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Enable GoToWebinar?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "Enter 0 for unlimited"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter Clickbank Item Number:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter Dealguardian Product No.:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter JVZoo Item Number:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Enter Product/Membership Title:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Enter Url for Custom Payment Button Image"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter WSOPRO Item Number:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter WSOPRO Product Code:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter Zaxaa Product No./SKU:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Enter jvzoo Item Number:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:289
+msgid "Expiry Date"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:43
+msgid "Filter"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Find this in SPBAS admin -> Settings -> Application -> System Configuration -> API Key "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "First Name Field"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:12
+msgid "First Name:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "First Welcome Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-password_reset.php:3
+msgid "Forgot your password?  Enter your email address here"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Form Post Url"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:50
+msgid "Forwarding URLs"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Free Registration Shortcode."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Frontend JS :"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "GBP"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:9
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+#: membership-site/membersonic.php:1
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:228
+msgid "Generate"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Generate PayPal Button"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "HUF"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+msgid "Here is Your [memberlevel] Login Information."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Hidden Fields"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Hide other Membership Levels:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "INR"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "IPN Forwarding URLs"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "If you have problems sending with the defualt Swift mailer mail() function used in this plugin, you can send emails using SMTP.  If both fails, select PHP mail() function. If you do not know what this means, do not change anything here."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:167
+msgid "Insert Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:408
+msgid "Insert Paypal Button Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate Autoresponder?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with Clickbank?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with Dealguardian?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with External Websites"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with JVZoo?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with SPBAS?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with WSOPRO?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+msgid "Integrate with Zaxaa?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "JVZOO Secret Key:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "JVZoo Forwarding URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:100
+#: membership-site/front_end/view/wp-wso-loginpage.php:77
+msgid "LOGIN"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:241
+msgid "Last Name"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Last Name Field"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:17
+msgid "Last Name:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "Limit Logins from x No. of IPs per user."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Links Expire in (Default: 9 minutes): "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:86
+msgid "Lock IP"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Lockout Period:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Login Limit Message :"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Login Page:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "MONTHS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+#: membership-site/membersonic.php:1
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:3
+msgid "Mail Broadcast"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "Mailchimp API Key: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Mailer Options"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+#: membership-site/admin/view/wp-memberoniclite-members.php:26
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Member Management"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Member Mgmt"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:241
+msgid "MemberShip Level"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:228
+msgid "MemberSonic News:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:42
+msgid "Members Today"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:42
+msgid "Members Total"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:43
+msgid "Membership Details"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:80
+msgid "Membership Level"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Membersonic"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Membersonic Shortcode"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Monitor and manage your members access."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:59
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Name Field"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:218
+msgid "Navigating The MemberSonic System"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:6
+msgid "New Member Registration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/msshortcode.php:355
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:180
+msgid "No Records."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:167
+#: membership-site/admin/view/msshortcode.php:355
+msgid "No membership level defined"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "No space between two letters."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:22
+msgid "Note:  This setup wizard will walk you through creating your FIRST membership level.  Once you complete step 5 this wizard will close and you will be able to access the optional features within the MemberSonic control panel. Please refer to the tutorials section for more information on those features."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match Clickbank"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match Dealguardian Product No."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match JVZoo"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match Product No./SKU"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match WSOPRO Product Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match Zaxaa Product No./SKU"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:455
+msgid "Number must match jvzoo"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Number of Payments"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Offer a Subscription Trial"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "On jQuery conflict UNCHECK the checkboxes to NOT load Membersonic jQuery instances"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:355
+msgid "One Time Purchase"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Page redirect if Payment fails:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Page redirect on Successful Payment:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:439
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:241
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:27
+msgid "Password (twice):"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Password has to be atleast 8 characters long."
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:90
+#: membership-site/front_end/view/wp-wso-loginpage.php:71
+msgid "Password:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "Password: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "PayPal Integration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Payment Button"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Payment Period"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:189
+msgid "Payment redirect if Payment fails - select the page to redirect to if the customer cancels the payment or the payment fails (must first create the page)."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "Paypal Checkout Page Logo - enter a url to change the header banner image on your Paypal payment page."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Paypal Checkout Page Logo:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:46
+msgid "Paypal Coupon Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Paypal Email Address(Primary):"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:355
+msgid "Paypal image"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:277
+msgid "Percentage(%)"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:265
+msgid "Please add Coupon Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:286
+msgid "Please add Discount amount"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:292
+msgid "Please add Expiry Date"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the Email_Id."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the First Name."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the Last Name."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the Password."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the User Name"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the User Name."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please enter the password"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Please_enter_the_Last_Name."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:110
+msgid "Pls. Select atleast 1 member level"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:47
+msgid "Pls. add a Message"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:53
+msgid "Pls. add a Signature"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:25
+msgid "Pls. add a Subject"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:488
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: membership-site/digiresults.php:48
+msgid "Processing Transaction . . ."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:622
+msgid "Product Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Product Price"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:34
+msgid "Product Title"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:71
+msgid "Product/Memberships"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-metabox.php:4
+msgid "Protect"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:439
+msgid "Protected?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:160
+msgid "RE-SEND"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:355
+msgid "Recurring Subscription"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Redirect Pages"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:79
+msgid "Registered"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "Remove from Levels (When someone joins this level)"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "SMTP Port: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "SMTP Server:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "SPBAS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "SPBAS API Key:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "SPBAS Integration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "SPBAS Price Tier ID:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "SPBAS Product ID:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "SPBAS is a licensing system that integrates with Membersonic.  Use SPBAS to issue license keys for software applications such as WordPress Plugins."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+msgid "SUPPORT "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:115
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:297
+msgid "Save Coupon Code"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:47
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Secret Code:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:36
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:209
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:376
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:343
+msgid "Select"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Select Active Campaign List"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:84
+msgid "Select All"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:555
+msgid "Select Auto Responders"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Select Aweber List"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Select Mailchimp List"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:60
+#: membership-site/admin/view/msshortcode.php:167
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Select Membership"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/msshortcode.php:167
+msgid "Select One"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1185
+msgid "Select SendReach List"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:908
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Select Thank You/OTO Page:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:355
+msgid "Select a Membership"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:118
+msgid "Send Now"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Send Signup Notifications?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:117
+msgid "Send Test Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Send Using PHP mail function"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Send Using Swift Mailer SMTP"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Send Using Swift Mailer mail()"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "SendReach Integration: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Server #"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:15
+msgid "Setup Wizard"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:115
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1150
+msgid "Show Only Future Content"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:39
+msgid "Sign Up"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:51
+msgid "Signature"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:26
+msgid "Step 1:   Setup Your Default Redirect Pages"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "Step 1: Configuration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:172
+msgid "Step 2:   Configure Your Paypal Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "Step 2: Content Access Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:274
+msgid "Step 3:   Configure Your Admin Settings"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1409
+msgid "Step 3: Customize your Welcome Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:318
+msgid "Step 4:   Create Your Membership Level"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:406
+msgid "Step 5:   Protect Your Content"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-mail-broadcast.php:22
+msgid "Subject"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Subject Title"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member.php:86
+msgid "TUTORIALS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:527
+msgid "Thank You Page:"
+msgstr ""
+
+#. Text in function
+#: membership-site/jvzoo.php:1
+#: membership-site/dealguardian.php:1
+msgid "Thank you! <br> Your Email / Username is: %1$s <br> You are already a member at %1$s <br> You can use the Login details already available with you."
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "This content is for members only"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:277
+msgid "To See All The Member News:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-view.php:3
+msgid "To access this content, please create your membership profile."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:141
+msgid "Total Members"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Trial Duration"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Trial Period"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:373
+msgid "Trial Price"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:148
+msgid "UPDATE"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "USD"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "USER CONTROL"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-content-protection.php:125
+msgid "Update"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1448
+msgid "Update Membership Level"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:937
+msgid "Update Settings"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Updated"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:189
+msgid "Use Paypal Sandbox for Testing - select Yes if you want to test your payment button (remember to change it back to No before going live with your site)"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Use Paypal Sandbox for testing?"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "Use this section to identify your admin account to your members.  Check the Send Signup Notifications box if you wish to recieve email notifications each time a member signs up to your site."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:928
+msgid "Use to add Secure Amazon S3 Credentials and options."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:67
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Username already exist"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:90
+#: membership-site/front_end/view/wp-wso-loginpage.php:71
+msgid "Username:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:760
+msgid "Username: "
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "Value should not be empty"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "WEEKS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "WSOPRO PayPal ID:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "Warrior Plus IPN Forwarding URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-manage-member-form.php:353
+msgid "Warrior Plus Key Generator Forwarding URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1414
+msgid "Webinar ID"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-members.php:86
+msgid "Wel. Email"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:58
+#: membership-site/front_end/view/wp-wso-loginpage.php:40
+msgid "Welcome "
+msgstr ""
+
+#. Text in function
+#: membership-site/membersonic.php:1
+msgid "Working"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:393
+msgid "YEARS"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:514
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:508
+msgid "YOUR PayPal IPN URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+#: membership-site/admin/view/msshortcode.php:355
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: membership-site/wsopro_keygen.php:1
+msgid "You can use the Login details already available with you. "
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-loginpage.php:40
+msgid "You have access to the following:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:58
+msgid "You have access to:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your Clickbank IPN URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your Dealguardian IPN URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your JVZIPN IPN URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your WSOPRO IPN URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your WSOPRO Key Gen URL:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Your ZAXAA IPN URL:"
+msgstr ""
+
+#. Text in function
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:1
+msgid "Your [memberlevel] is activated!"
+msgstr ""
+
+#. Text in function
+#: membership-site/wsopro_keygen.php:1
+msgid "Your login Details to %1$s"
+msgstr ""
+
+#. Text in function
+#: membership-site/jvzoo.php:1
+#: membership-site/dealguardian.php:1
+msgid "Your login Details to %1$s.<br> Username: %2$s <br> Password: %3$s"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "Zaxaa"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:514
+#: membership-site/admin/view/wp-memberoniclite-wizard.php:508
+msgid "for instructions to Set Up IPN Notifications on PayPal."
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "jQuery Troubleshooting"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-general_settings.php:923
+msgid "jQuery core:"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/wp-memberoniclite-add-form.php:115
+msgid "or Custom URL"
+msgstr ""
+
+#. Text in echo
+#: membership-site/admin/view/msshortcode.php:60
+msgid "press CTRL to select multiple"
+msgstr ""
+
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "A message will be sent to your email address."
+msgstr ""
+
+#. Text in echo
+#: membership-site/validate_membersonicmultisite.php:528
+msgid "Current time is: "
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#. Text in echo
+#: membership-site/validate_membersonicmultisite.php:528
+msgid "Local key expires at: "
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:528
+msgid "Local key has expired"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:528
+msgid "Local key is still current"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-wso-login.php:58
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: membership-site/front_end/view/wp-password_reset.php:6
+msgid "Reset my password"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "Username or Email was not found, try again!"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "Username: %s"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your MemberSonic Multisite license has expired"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your MemberSonic Multisite license is already installed on the maximum number of domains"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your MemberSonic Multisite license is inactive"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your MemberSonic Multisite license key is active"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your MemberSonic Multisite license key is invalid"
+msgstr ""
+
+#. Text in function
+#: membership-site/validate_membersonicmultisite.php:565
+msgid "Your domain has been banned"
+msgstr ""
+
+#. Text in function
+#: membership-site/front_end/view/wp-password_reset.php:10
+msgid "[%s] Password Reset"
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "A New member added to "
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "Domain: "
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "Member Locked Out"
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "Memberlevel: "
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "New member added to "
+msgstr ""
+
+#. Text in function
+#: wp-memberoniclite-mailer-helper.php:1
+msgid "Username: "
+msgstr ""

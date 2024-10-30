@@ -1,0 +1,7 @@
+== Changelog ==
+= 2.0.2 - 2021-01-09 =
+* BUG FIX: Resolved warning messages on content protectoin screen.
+
+
+= 2.0.1 - 2021-01-06 =
+* BUG FIX: Fixed issue with folder name.

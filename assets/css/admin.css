@@ -1,0 +1,59 @@
+.qazert{
+    background: #ffffff !important;
+}
+.qazert a{
+    text-decoration: none !important;
+}
+a.nav-link.text-white.active {
+    color: #ffffff !important; 
+    font-size: 14px;
+}
+.pluginsupport > a {
+    background: #c40c0c !important; 
+    font-size: 14px;
+}
+.membersoniclink{
+background: #c40c0c !important; 
+    font-size: 14px;
+    color:#ffffff;
+}
+#wpcontent{
+    background: #ffffff;
+}
+.nav-link{
+    color:#000000 !important;
+}
+.nav-link.active{
+    color:#ffffff !important;
+background: #c40c0c !important; 
+}
+.btn-ms{
+    color:#ffffff !important;
+background: #c40c0c !important; 
+}
+.contprotectioncont{
+    max-height: 250px;
+    overflow-y: scroll;
+}
+.gensetvpill{
+    width: 20%;
+    margin-top: 20px;
+    float: left;
+    margin-right: 20px;
+}
+.gensetvpillcont{
+    width: 70%;
+    margin-top: 20px;
+    float: left;
+}
+.msmodal-backdrop{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: #000;
+    opacity: 0.5;
+}
+    

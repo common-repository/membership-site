@@ -1,0 +1,2 @@
+email1@example1.com,username1,firstname,lastname
+email2@example2.com,username2,john,doe
